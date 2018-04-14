@@ -1,5 +1,8 @@
 echo off
 
+cls
+echo.
+echo.
 
 vol
 version
